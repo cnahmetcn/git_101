@@ -11,3 +11,9 @@ Blog Sitem: https://www.teknokodi.com <br>
 CV Sitem: https://ahmetcancv.web.app <br>
 Portrolyo Sitem: https://cnahmetcn.github.io <br>
 Mail adresim: cnahmet@outlook.com 
+
+### Hobilerim
+
+Formula 1
+Snooker
+Astronomi ve Uzay Bilimleri
