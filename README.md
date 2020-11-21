@@ -7,7 +7,7 @@ Orta seviye ingilizce başlangıç ispanyolca biliyorum
 
 ## En son eklenen bilgiler
 
-Blog Sitem: https://www.teknokodi.com
-CV Sitem: https://ahmetcancv.web.app
-Portrolyo Sitem: https://cnahmetcn.github.io
-Mail adresim: cnahmet@outlook.com
+Blog Sitem: https://www.teknokodi.com <br>
+CV Sitem: https://ahmetcancv.web.app <br>
+Portrolyo Sitem: https://cnahmetcn.github.io <br>
+Mail adresim: cnahmet@outlook.com 
